@@ -54,9 +54,11 @@ We welcome all contributions! Please read our contributing guidelines and code o
 
 ## 📬 Contact
 
-- Email: [contact@the-menufy.com](mailto:contact@the-menufy.com)
-- Website: [the-menufy.com](https://the-menufy.com)
-- Twitter: [@themenufy](https://twitter.com/themenufy)
+- [@FadiAmori](https://github.com/FadiAmori) - Fadi Amorri  
+- [@farsbrayek3](https://github.com/farsbrayek3) - Fares Brayek  
+- [@MasarraCherif](https://github.com/MasarraCherif) - Masarra Cherif  
+- [@mohamedazizmoumni](https://github.com/mohamedazizmoumni) - Mohamed Aziz Moumni  
+- [@sara-bouazzi](https://github.com/sara-bouazzi) - Sara Bouazzi  
 
 ---
 
