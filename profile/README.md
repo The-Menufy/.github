@@ -10,6 +10,8 @@
 
 - **Backend:** [Express.js](https://expressjs.com/)
 - **Frontend:** [React (Vite)](https://vitejs.dev/)
+- **NetlifyStatus:** CLIENT[![Netlify Status](https://api.netlify.com/api/v1/badges/a5c14f32-1cb0-4eb4-a04c-832becff4e21/deploy-status)](https://app.netlify.com/sites/menufy-frontend/deploys)
+- **NetlifyStatus:** ADMIN[![Netlify Status](https://api.netlify.com/api/v1/badges/a5c14f32-1cb0-4eb4-a04c-832becff4e21/deploy-status)](https://app.netlify.com/sites/menufy-frontend/deploys)
 
 ---
 
